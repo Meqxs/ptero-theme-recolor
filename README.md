@@ -1,2 +1,0 @@
-# ptero-theme-recolor
-eee
